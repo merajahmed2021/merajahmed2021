@@ -26,7 +26,6 @@
  </a> 
 
 
-m879-2020.stl
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=merajahmed2021)](https://github.com/ryo-ma/github-profile-trophy)
 
