@@ -1,3 +1,9 @@
+### Note
+
+- This GitHub profile is only used for projects so please visit :  https://github.com/m879  for more information.
+
+
+
 # Hi there 👋,
 # I am Meraj Ahmed
 
@@ -6,6 +12,8 @@
 - 🔭 I’m currently working on **React app**
 
 - 🌱 I’m currently learning **ReactJs || React Native || Django || DSA**
+
+- 🔭 Main GitHub Profile = https://github.com/m879
 
 - 🔭 Personal website = https://m879.github.io/merajahmed.github.io/
 
